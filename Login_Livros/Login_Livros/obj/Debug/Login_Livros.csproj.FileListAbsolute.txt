@@ -1,0 +1,33 @@
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\bin\Debug\Login_Livros.exe.config
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\bin\Debug\Login_Livros.exe
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\bin\Debug\Login_Livros.pdb
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\obj\Debug\Login_Livros.csprojResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\obj\Debug\MainWindow.g.cs
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\obj\Debug\App.g.cs
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\obj\Debug\Login_Livros_MarkupCompile.cache
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\obj\Debug\Login_Livros_MarkupCompile.lref
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\obj\Debug\MainWindow.baml
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\obj\Debug\Login_Livros.g.resources
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\obj\Debug\Login_Livros.Properties.Resources.resources
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\obj\Debug\Login_Livros.csproj.GenerateResource.Cache
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\obj\Debug\Login_Livros.exe
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\obj\Debug\Login_Livros.pdb
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\obj\Debug\Livros.g.cs
+c:\users\carlos\documents\visual studio 2015\Projects\Login_Livros\Login_Livros\obj\Debug\Livros.baml
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\bin\Debug\Login_Livros.exe.config
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\bin\Debug\Login_Livros.exe
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\bin\Debug\Login_Livros.pdb
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\obj\Debug\Login_Livros.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\obj\Debug\Livros.g.cs
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\obj\Debug\MainWindow.g.cs
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\obj\Debug\App.g.cs
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\obj\Debug\Login_Livros_MarkupCompile.cache
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\obj\Debug\Login_Livros_MarkupCompile.lref
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\obj\Debug\Livros.baml
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\obj\Debug\MainWindow.baml
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\obj\Debug\Login_Livros.g.resources
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\obj\Debug\Login_Livros.Properties.Resources.resources
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\obj\Debug\Login_Livros.csproj.GenerateResource.Cache
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\obj\Debug\Login_Livros.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\obj\Debug\Login_Livros.exe
+C:\Users\Windows\Documents\Login_Livros\Login_Livros\obj\Debug\Login_Livros.pdb

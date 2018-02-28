@@ -1,0 +1,29 @@
+c:\users\carlos\documents\visual studio 2015\Projects\CadastroSeries\CadastroSeries\bin\Debug\CadastroSeries.exe.config
+c:\users\carlos\documents\visual studio 2015\Projects\CadastroSeries\CadastroSeries\bin\Debug\CadastroSeries.exe
+c:\users\carlos\documents\visual studio 2015\Projects\CadastroSeries\CadastroSeries\bin\Debug\CadastroSeries.pdb
+c:\users\carlos\documents\visual studio 2015\Projects\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.csprojResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2015\Projects\CadastroSeries\CadastroSeries\obj\Debug\MainWindow.g.cs
+c:\users\carlos\documents\visual studio 2015\Projects\CadastroSeries\CadastroSeries\obj\Debug\App.g.cs
+c:\users\carlos\documents\visual studio 2015\Projects\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries_MarkupCompile.cache
+c:\users\carlos\documents\visual studio 2015\Projects\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries_MarkupCompile.lref
+c:\users\carlos\documents\visual studio 2015\Projects\CadastroSeries\CadastroSeries\obj\Debug\MainWindow.baml
+c:\users\carlos\documents\visual studio 2015\Projects\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.g.resources
+c:\users\carlos\documents\visual studio 2015\Projects\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.Properties.Resources.resources
+c:\users\carlos\documents\visual studio 2015\Projects\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.csproj.GenerateResource.Cache
+c:\users\carlos\documents\visual studio 2015\Projects\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.exe
+c:\users\carlos\documents\visual studio 2015\Projects\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.pdb
+C:\Users\Windows\Documents\CadastroSeries\CadastroSeries\bin\Debug\CadastroSeries.exe.config
+C:\Users\Windows\Documents\CadastroSeries\CadastroSeries\bin\Debug\CadastroSeries.exe
+C:\Users\Windows\Documents\CadastroSeries\CadastroSeries\bin\Debug\CadastroSeries.pdb
+C:\Users\Windows\Documents\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Documents\CadastroSeries\CadastroSeries\obj\Debug\MainWindow.g.cs
+C:\Users\Windows\Documents\CadastroSeries\CadastroSeries\obj\Debug\App.g.cs
+C:\Users\Windows\Documents\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries_MarkupCompile.cache
+C:\Users\Windows\Documents\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries_MarkupCompile.lref
+C:\Users\Windows\Documents\CadastroSeries\CadastroSeries\obj\Debug\MainWindow.baml
+C:\Users\Windows\Documents\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.g.resources
+C:\Users\Windows\Documents\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.Properties.Resources.resources
+C:\Users\Windows\Documents\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.csproj.GenerateResource.Cache
+C:\Users\Windows\Documents\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.exe
+C:\Users\Windows\Documents\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.pdb

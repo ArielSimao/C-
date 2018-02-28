@@ -1,0 +1,26 @@
+﻿<Window x:Class="CadastroConsultaSeries.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CadastroConsultaSeries"
+        mc:Ignorable="d"
+        Title="Cadastro Consulta " Height="378.935" Width="700">
+    <Grid Margin="0,0,0,24">
+        <TextBox Name="txtNome" HorizontalAlignment="Left" Height="23" Margin="116,45,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="188"/>
+        <TextBox Name="txtGenero" HorizontalAlignment="Left" Height="23" Margin="116,89,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="188"/>
+        <TextBox Name="txtDiretor" HorizontalAlignment="Left" Height="24" Margin="116,132,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="188"/>
+        <Label Name="lblNome" Content="Nome" HorizontalAlignment="Left" Margin="28,45,0,0" VerticalAlignment="Top" Width="68"/>
+        <Label Name="lblGenero"  Content="Genero" HorizontalAlignment="Left" Margin="28,86,0,0" VerticalAlignment="Top" Width="68"/>
+        <Label Name="lblDiretor" Content="Diretor" HorizontalAlignment="Left" Margin="28,130,0,0" VerticalAlignment="Top" Width="68"/>
+        <Button Name="lbtnCadastrar" Content="Cadastrar" HorizontalAlignment="Left" Margin="116,192,0,0" VerticalAlignment="Top" Width="114" Height="30"/>
+        <GroupBox Header="Classificar" HorizontalAlignment="Left" Height="71" Margin="28,237,0,0" VerticalAlignment="Top" Width="309">
+            <Grid HorizontalAlignment="Left" Height="67" Margin="4,-6,-2,-12" VerticalAlignment="Top" Width="295">
+                <RadioButton Content="Diretor" HorizontalAlignment="Left" Margin="212,28,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked"/>
+                <RadioButton Content="Genero" HorizontalAlignment="Left" Margin="98,28,0,0" VerticalAlignment="Top"/>
+                <RadioButton Content="Nome" HorizontalAlignment="Left" Margin="0,28,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <DataGrid HorizontalAlignment="Left" Height="263" Margin="383,45,0,0" VerticalAlignment="Top" Width="278"/>
+    </Grid>
+</Window>

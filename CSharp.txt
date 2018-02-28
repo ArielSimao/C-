@@ -1,0 +1,15 @@
+
+Aula 20 Fevereiro
+
+TAREFA 1
+Tela de Login
+-textBox Nome
+-PasswordBox Senha
+-Button Login
+
+
+TAREFA 2
+Desenvolver uma tela 
+Cadastrar Filme/Serie
+Nome,Genero e Diretor
+
