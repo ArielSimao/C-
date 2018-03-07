@@ -16,7 +16,7 @@ namespace ProjetoSalario
 
         private Boolean imposto;
 
-        public Boolean impostoProp
+        public Boolean impostoP
         {
             get { return imposto; }
             set

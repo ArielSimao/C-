@@ -23,7 +23,7 @@ namespace ProjetoSalario
         {
             Funcionario funcionario;
 
-            try { funcionario = obterFuncionario(); }
+            try { funcionario = criaFuncionario(); }
             catch (FormatException fe)
             {
                 MessageBox.Show(fe.Message, "Salário inválido inválido", MessageBoxButton.OK, MessageBoxImage.Error);
@@ -37,7 +37,7 @@ namespace ProjetoSalario
             lblSarioFixo.Content = "R$ " + funcionario.salarioLiquidoProp.ToString("N", new CultureInfo("pt-BR"));
         }
 
-        private Funcionario obterFuncionario()
+        private Funcionario criaFuncionario()
         {
             Funcionario funcionario = new Funcionario();
             funcionario.nome = txtNome.Text;
@@ -45,7 +45,7 @@ namespace ProjetoSalario
 
             funcionario.comissaoProp = rdbComissao.IsChecked.Value;
             funcionario.ajudaCustoProp = rdbAjudaCusto.IsChecked.Value;
-            funcionario.impostoProp = chkImposto.IsChecked.Value;
+            funcionario.impostoP = chkImposto.IsChecked.Value;
             funcionario.valeTransporteProp = chkValeTransporte.IsChecked.Value;
 
             return funcionario;
